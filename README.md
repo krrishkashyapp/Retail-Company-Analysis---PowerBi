@@ -8,9 +8,13 @@ This project delivers an executive-level retail performance dashboard built in P
 Retail businesses often struggle with:
 
 ❌ Unclear revenue trends across months
+
 ❌ No visibility into top-performing countries
+
 ❌ Difficulty identifying high-value customers
+
 ❌ Lack of actionable insights from raw sales data
+
 ❌ Poor demand forecasting across regions
 
 To solve this, I built an interactive Retail Sales Analysis Dashboard in Power BI that transforms raw transactional data into clear, decision-ready insights.
@@ -18,16 +22,23 @@ To solve this, I built an interactive Retail Sales Analysis Dashboard in Power B
 🔎 Key Business Solutions Delivered:
 
 ✔ Identified Top 10 Countries by Revenue & Quantity Sold to optimize regional strategy
+
 ✔ Analyzed Monthly Revenue Trends to detect seasonality and peak sales periods
+
 ✔ Highlighted High-Value Customers for targeted retention & loyalty programs
+
 ✔ Mapped Global Demand Distribution using geo-visual insights
+
 ✔ Enabled dynamic filtering by Country, Year, and Customer ID for deeper drill-down analysis
 
 📊 Business Impact:
 
 📈 Improved visibility into revenue growth patterns
+
 🌍 Enabled data-driven regional expansion decisions
+
 🎯 Supported targeted marketing strategies
+
 💡 Transformed raw sales data into strategic intelligence
 
 🛠 Tools & Technologies Used:
